@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="http://scp-wiki-de.wdfiles.com/local--files/scp-foundation-in-deutschland-portal/scp-logo-dach-400.png" alt="SCP-DE" height="150px">
+   <img src="https://png.pngtree.com/png-vector/20231107/ourmid/pngtree-puzzled-robin-bird-curious-tilt-and-quizzical-gaze-png-image_10515018.png" alt="SCP-DE" height="150px">
 </p>
 
 <h2 align="center">Robinis Repository</h2>
